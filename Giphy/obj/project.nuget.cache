@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ovF6a6PJpRWAQ35tDcZvPQblTfi9h7EqymOGqrh3qbcfQe6kQPTim+A2JiQCfg1/Q3uKWJIcQ0QYdb7c282IEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\efratt\\source\\repos\\Giphy\\Giphy\\Giphy.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\efratt\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\efratt\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\efratt\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
